@@ -56,3 +56,6 @@ You can change the `PRODUCTION` field in your `.env.local` file to `true`.
 
 ## I'm too Lazy
 Too lazy to deploy your own? Worry not! Twitco, a platform where bot developers can easily add payment system to their bot is coming next year! (2022)
+
+## Screenshot
+![light.png](https://repyh.github.io/assets/discord.pay-v2.PNG)
